@@ -1,6 +1,6 @@
 # lego DNS provider for PanelDNS
 
-[![Latest Release](https://img.shields.io/github/v/release/hostingsimple/lego-dns-paneldns)](https://github.com/hostingsimple/lego-dns-paneldns/releases/latest) [![Release](https://github.com/hostingsimple/lego-dns-paneldns/actions/workflows/release.yml/badge.svg)](https://github.com/hostingsimple/lego-dns-paneldns/actions/workflows/release.yml) [![License](https://img.shields.io/github/license/hostingsimple/lego-dns-paneldns)](LICENSE) [![CI](https://github.com/hostingsimple/lego-dns-paneldns/actions/workflows/ci.yml/badge.svg)](https://github.com/hostingsimple/lego-dns-paneldns/actions/workflows/ci.yml) ![lego](https://img.shields.io/badge/lego-DNS--01-green)
+[![CI](https://github.com/hostingsimple/lego-dns-paneldns/actions/workflows/ci.yml/badge.svg)](https://github.com/hostingsimple/lego-dns-paneldns/actions/workflows/ci.yml) [![License](https://img.shields.io/github/license/hostingsimple/lego-dns-paneldns)](LICENSE) ![lego](https://img.shields.io/badge/lego-DNS--01-green)
 
 Go library and exec binary that lets [lego](https://github.com/go-acme/lego) — and any tool built on it (Traefik, Nginx Proxy Manager, Coolify, Caprover) — complete ACME DNS-01 challenges using [PanelDNS](https://paneldns.com).
 
